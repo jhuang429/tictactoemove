@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const player1 = "X";
 const player2 = "O";
 let current_player = player1;
@@ -94,6 +93,4 @@ function check_winner() {
         alternatePlayer();
     }
 }
-=======
->>>>>>> 5ea70d34b502031ec6e0b915c24b58db04cb1c3b
 //# sourceMappingURL=index.js.map
